@@ -95,6 +95,16 @@ This project leverages <b>data visualization techniques</b> to transform raw tra
 
 <hr>
 
+<h2> Dashboard Files</h2>
+
+<p>Due to file size limitations, the Excel dashboard is hosted externally:</p>
+
+<ul>
+  <li> Excel Dashboard: <a href="https://docs.google.com/spreadsheets/d/1mKd5UgJz7ibm9-NAgXb0VrxpHCQkoM0r/edit?usp=sharing&ouid=109812355045743881151&rtpof=true&sd=true" target="_blank">Open in Google Drive</a></li>
+  <li> Tableau Dashboard: Included in this repository</li>
+</ul>
+
+
 <h2> Dashboard Features</h2>
 
 <h3> KPI Metrics</h3>
@@ -147,6 +157,8 @@ Financial-Fraud-Detection-Dashboard
 │
 ├── Excel Dashboard
 ├── Tableau Dashboard
+├── Dataset
+│   └── financial_fraud_dataset.csv
 ├── images
 │   ├── excel_dashboard.png
 │   └── tableau_dashboard.png
