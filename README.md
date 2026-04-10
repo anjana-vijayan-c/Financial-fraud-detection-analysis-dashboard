@@ -88,7 +88,7 @@ This project leverages <b>data visualization techniques</b> to transform raw tra
 <h2> Dashboard Preview</h2>
 
 <h3>Tableau Dashboard</h3>
-<img src="images/tableau_dashboard.png" width="700">
+<img src="fraud_detection_dashboard_excel.png" width="700">
 
 <h3>Excel Dashboard</h3>
 <img src="images/excel_dashboard.png" width="700">
